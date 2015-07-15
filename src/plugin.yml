@@ -1,0 +1,7 @@
+name: RainbowSheep
+main: com.adamedw.rainbowsheep.RainbowSheep
+version: 1.0.0
+author: Packet # OMNIVION ON SPIGOT
+website: http://adamedw.com
+database: false
+description: Randomize sheep colors!
